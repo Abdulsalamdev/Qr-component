@@ -18,8 +18,9 @@ body div {
 }
 
 body div img {
-  width: 252px;
+  max-width: 300px;
   height: auto;
+  border-radius: 10px;
 }
 
 body div p {
@@ -34,5 +35,5 @@ body div div {
   font-size: 19px;
   font-weight: 400;
   text-align: center;
-  max-width: 240px;
+  max-width: 300px;
 }
